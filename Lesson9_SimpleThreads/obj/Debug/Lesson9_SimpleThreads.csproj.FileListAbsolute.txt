@@ -1,0 +1,9 @@
+C:\Users\Alex\Desktop\ConsoleApplication2\Lesson9_SimpleThreads\bin\Debug\Lesson9_SimpleThreads.exe.config
+C:\Users\Alex\Desktop\ConsoleApplication2\Lesson9_SimpleThreads\bin\Debug\Lesson9_SimpleThreads.exe
+C:\Users\Alex\Desktop\ConsoleApplication2\Lesson9_SimpleThreads\bin\Debug\Lesson9_SimpleThreads.pdb
+C:\Users\Alex\Desktop\ConsoleApplication2\Lesson9_SimpleThreads\obj\Debug\Lesson9_SimpleThreads.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\ConsoleApplication2\Lesson9_SimpleThreads\obj\Debug\Lesson9_SimpleThreads.exe
+C:\Users\Alex\Desktop\ConsoleApplication2\Lesson9_SimpleThreads\obj\Debug\Lesson9_SimpleThreads.pdb
+C:\Users\Alex\Documents\GitHub\Lesson10\Lesson9_SimpleThreads\bin\Debug\Lesson9_SimpleThreads.exe.config
+C:\Users\Alex\Documents\GitHub\Lesson10\Lesson9_SimpleThreads\obj\Debug\Lesson9_SimpleThreads.exe
+C:\Users\Alex\Documents\GitHub\Lesson10\Lesson9_SimpleThreads\obj\Debug\Lesson9_SimpleThreads.pdb

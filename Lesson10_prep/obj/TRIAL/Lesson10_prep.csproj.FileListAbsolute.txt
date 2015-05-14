@@ -1,0 +1,8 @@
+C:\Users\Alex\Desktop\ConsoleApplication2\Lesson10_prep\bin\TRIAL\Lesson10_prep.exe.config
+C:\Users\Alex\Desktop\ConsoleApplication2\Lesson10_prep\bin\TRIAL\Lesson10_prep.exe
+C:\Users\Alex\Desktop\ConsoleApplication2\Lesson10_prep\bin\TRIAL\Lesson10_prep.pdb
+C:\Users\Alex\Desktop\ConsoleApplication2\Lesson10_prep\obj\TRIAL\Lesson10_prep.Form1.resources
+C:\Users\Alex\Desktop\ConsoleApplication2\Lesson10_prep\obj\TRIAL\Lesson10_prep.Properties.Resources.resources
+C:\Users\Alex\Desktop\ConsoleApplication2\Lesson10_prep\obj\TRIAL\Lesson10_prep.csproj.GenerateResource.Cache
+C:\Users\Alex\Desktop\ConsoleApplication2\Lesson10_prep\obj\TRIAL\Lesson10_prep.exe
+C:\Users\Alex\Desktop\ConsoleApplication2\Lesson10_prep\obj\TRIAL\Lesson10_prep.pdb

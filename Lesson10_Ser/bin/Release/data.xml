@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<ArrayOfPoint xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Point>
+    <x>69</x>
+    <y>-70</y>
+    <label>label 0</label>
+  </Point>
+  <Point>
+    <x>69</x>
+    <y>95</y>
+    <label>label 1</label>
+  </Point>
+  <Point>
+    <x>48</x>
+    <y>92</y>
+    <label>label 2</label>
+  </Point>
+  <Point>
+    <x>22</x>
+    <y>64</y>
+    <label>label 3</label>
+  </Point>
+  <Point>
+    <x>47</x>
+    <y>-55</y>
+    <label>label 4</label>
+  </Point>
+  <Point>
+    <x>-49</x>
+    <y>19</y>
+    <label>label 5</label>
+  </Point>
+  <Point>
+    <x>12</x>
+    <y>7</y>
+    <label>label 6</label>
+  </Point>
+  <Point>
+    <x>-15</x>
+    <y>4</y>
+    <label>label 7</label>
+  </Point>
+  <Point>
+    <x>20</x>
+    <y>-33</y>
+    <label>label 8</label>
+  </Point>
+  <Point>
+    <x>20</x>
+    <y>3</y>
+    <label>label 9</label>
+  </Point>
+  <Point>
+    <x>36</x>
+    <y>-58</y>
+    <label>label 10</label>
+  </Point>
+  <Point>
+    <x>61</x>
+    <y>13</y>
+    <label>label 11</label>
+  </Point>
+  <Point>
+    <x>-77</x>
+    <y>-86</y>
+    <label>label 12</label>
+  </Point>
+</ArrayOfPoint>

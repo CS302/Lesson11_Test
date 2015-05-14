@@ -1,0 +1,6 @@
+C:\Users\Alex\Desktop\ConsoleApplication2\Lesson10_Ser\bin\Release\Lesson10_Ser.exe.config
+C:\Users\Alex\Desktop\ConsoleApplication2\Lesson10_Ser\bin\Release\Lesson10_Ser.exe
+C:\Users\Alex\Desktop\ConsoleApplication2\Lesson10_Ser\bin\Release\Lesson10_Ser.pdb
+C:\Users\Alex\Desktop\ConsoleApplication2\Lesson10_Ser\obj\Release\Lesson10_Ser.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\ConsoleApplication2\Lesson10_Ser\obj\Release\Lesson10_Ser.exe
+C:\Users\Alex\Desktop\ConsoleApplication2\Lesson10_Ser\obj\Release\Lesson10_Ser.pdb
